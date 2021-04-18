@@ -1,0 +1,20 @@
+name: base
+channels:
+  - defaults
+dependencies:
+  - ipykernel=5.3.4
+  - ipython=7.20.0
+  - ipython_genutils=0.2.0
+  - ipywidgets=7.6.3
+  - jupyter_client=6.1.7
+  - jupyter_core=4.7.1
+  - jupyterlab=2.2.6
+  - jupyterlab_pygments=0.1.2
+  - jupyterlab_server=1.2.0
+  - jupyterlab_widgets=1.0.0
+  - matplotlib=3.3.4
+  - matplotlib-base=3.3.4
+  - notebook=6.2.0
+  - numpy-base=1.19.2
+  - pandas=1.2.2
+prefix: C:\ProgramData\Anaconda3
